@@ -1,0 +1,44 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Tue, 30 Nov 2021 14:51:38 at https://broadsemis.com/
+(httrack https://broadsemis.com/ -O HH1 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:53:16	Error: 	"Method Not Allowed" (405) at link https://broadsemis.com/xmlrpc.php (from https://broadsemis.com/)
+14:54:19	Warning: 	Link https://broadsemis.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+14:54:23	Error: 	"Not Found" (404) at link https://broadsemis.com/Trident/ (from https://broadsemis.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.2.5)
+14:54:23	Warning: 	Moved Permanently for https://broadsemis.com/?p=19
+14:54:23	Warning: 	File has moved from https://broadsemis.com/?p=19 to https://broadsemis.com/index.php/about/
+14:54:23	Warning: 	Moved Permanently for https://broadsemis.com/?p=21
+14:54:23	Warning: 	File has moved from https://broadsemis.com/?p=21 to https://broadsemis.com/index.php/services/
+14:54:23	Warning: 	Moved Permanently for https://broadsemis.com/?p=2313
+14:54:23	Warning: 	File has moved from https://broadsemis.com/?p=2313 to https://broadsemis.com/index.php/corporate-training/
+14:54:23	Warning: 	Moved Permanently for https://broadsemis.com/?p=1633
+14:54:23	Warning: 	File has moved from https://broadsemis.com/?p=1633 to https://broadsemis.com/index.php/services-2/
+14:54:23	Warning: 	Moved Permanently for https://broadsemis.com/?p=1634
+14:54:23	Warning: 	File has moved from https://broadsemis.com/?p=1634 to https://broadsemis.com/index.php/service-3/
+14:54:23	Warning: 	Moved Permanently for https://broadsemis.com/?p=1635
+14:54:23	Warning: 	File has moved from https://broadsemis.com/?p=1635 to https://broadsemis.com/index.php/service-4/
+14:54:25	Warning: 	Moved Permanently for https://broadsemis.com/?p=1632
+14:54:25	Warning: 	File has moved from https://broadsemis.com/?p=1632 to https://broadsemis.com/index.php/service-1/
+14:54:25	Warning: 	Moved Permanently for https://broadsemis.com/?p=1911
+14:54:25	Warning: 	File has moved from https://broadsemis.com/?p=1911 to https://broadsemis.com/index.php/careers/
+14:54:25	Error: 	"Not Found" (404) at link https://broadsemis.com/wp-content/uploads/2020/08/imgonline-com-ua-resize-VE8PZ3ZHJz9TzS.png (from https://broadsemis.com/index.php/careers/)
+14:54:26	Warning: 	Moved Permanently for https://broadsemis.com/?p=9
+14:54:26	Warning: 	File has moved from https://broadsemis.com/?p=9 to https://broadsemis.com/index.php/contact-2/
+14:54:29	Error: 	"Not Found" (404) at link https://broadsemis.com/Edge/ (from https://broadsemis.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+14:54:29	Error: 	"Not Found" (404) at link https://broadsemis.com/Gecko/ (from https://broadsemis.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+14:54:29	Error: 	"Not Found" (404) at link https://broadsemis.com/Firefox/ (from https://broadsemis.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+14:54:29	Error: 	"Not Found" (404) at link https://broadsemis.com/Version/ (from https://broadsemis.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+14:54:29	Error: 	"Not Found" (404) at link https://broadsemis.com/version/ (from https://broadsemis.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+14:54:29	Error: 	"Not Found" (404) at link https://broadsemis.com/-negative.svg (from https://broadsemis.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.2.5)
+14:54:29	Warning: 	Moved Permanently for https://broadsemis.com/?p=1907
+14:54:29	Warning: 	File has moved from https://broadsemis.com/?p=1907 to https://broadsemis.com/index.php/jobs/looking-for-business-development-manager/
+14:54:29	Error: 	"Not Found" (404) at link https://broadsemis.com/index.php/contact-2/optusnet.com.au (from https://broadsemis.com/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2)
+14:54:29	Error: 	"Not Found" (404) at link https://broadsemis.com/index.php/contact-2/com.au (from https://broadsemis.com/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2)
+14:54:29	Error: 	"Not Found" (404) at link https://broadsemis.com/index.php/contact-2/net.au (from https://broadsemis.com/wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js?ver=1.1.2)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 51 seconds : 183 links scanned, 160 files written (11817502 bytes overall) [7924091 bytes received at 46339 bytes/sec], 7359045 bytes transferred using HTTP compression in 135 files, ratio 32%, 16.6 requests per connection
+(12 errors, 21 warnings, 0 messages)
